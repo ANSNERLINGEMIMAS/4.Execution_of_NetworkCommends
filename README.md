@@ -84,6 +84,8 @@ c.close()
 
 
 
+[cn4.pdf](https://github.com/user-attachments/files/23516588/cn4.pdf)
+
 
 ## Result
 Thus Execution of Network commands Performed 
